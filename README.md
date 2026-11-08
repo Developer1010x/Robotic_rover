@@ -1,11 +1,17 @@
 # Robotic Rover
 
+[![IEEE Xplore: CSITSS 2024](https://img.shields.io/badge/IEEE_Xplore-CSITSS_2024-00629B)](https://doi.org/10.1109/csitss64042.2024.10816816) ![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-E7352C?logo=espressif&logoColor=white) ![Arduino: IDE](https://img.shields.io/badge/Arduino-IDE-00878F?logo=arduino&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-2EA44F)](LICENSE)
+
 An ESP32-based robotic rover project combining a WiFi-controlled driving
 platform, a live camera feed, and a servo-driven robotic arm. The rover is
 operated from a phone or computer browser over WiFi — no app required.
 
 > Note: This is a partially confidential project; only the firmware sketches in
 > this repository are shared publicly.
+
+## Paper
+
+> **S Prajwall Narayana**, Sandeep S, Smit Patel, Yogesh M and K Badari Nath, "Web-Server Controlled Rover with Robotic Arm and Object Detection," *IEEE CSITSS 2024*. [doi:10.1109/csitss64042.2024.10816816](https://doi.org/10.1109/csitss64042.2024.10816816)
 
 ## Overview
 
@@ -121,3 +127,7 @@ Robotic_rover/
 ├── .gitignore
 └── README.md
 ```
+
+---
+
+Built by **S. Prajwall Narayana** · [Portfolio](https://sprajwallnarayana.vercel.app) · [GitHub](https://github.com/Developer1010x)
